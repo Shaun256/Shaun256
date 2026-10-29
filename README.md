@@ -2,7 +2,7 @@
 
 Final-year BTech ECE at **NIT Calicut**, currently an exchange student in Electrical Engineering at **IIT Madras**.
 
-I work on **semiconductor device physics and modelling**: TCAD device and process simulation, virtual fabrication, physics-based compact models, and machine-learning surrogates for device optimisation. I am applying to PhD programmes for Fall 2027 in nanoscale device modelling and quantum transport.
+I work on **semiconductor device physics and modelling**: TCAD device and process simulation, virtual fabrication, physics-based compact models, and machine-learning surrogates for device optimisation. I am applying to PhD programmes for Fall 2027 in nanoscale device modelling and fabrication.
 
 ## Projects
 
