@@ -4,6 +4,13 @@ Final-year BTech ECE at **NIT Calicut**, currently an exchange student in Electr
 
 I work on **semiconductor device physics and modelling**: TCAD device and process simulation, virtual fabrication, physics-based compact models, and machine-learning surrogates for device optimisation. I am applying to PhD programmes for Fall 2027 in nanoscale device physics, and want to take my work from simulation to fabricated devices.
 
+## Research
+
+| Project | What it shows | Tools |
+|---|---|---|
+| [charge-plasma-diode-tcad](https://github.com/Shaun256/charge-plasma-diode-tcad) | Dopant-free P-N diode on 23 nm SOI: contact workfunctions set leakage and on-current | Silvaco ATLAS, MATLAB |
+| [plasma-iv-daq](https://github.com/Shaun256/plasma-iv-daq) | LabVIEW + NI-DAQ setup measuring plasma I-V characteristics | LabVIEW, NI-DAQ |
+
 ## Projects
 
 | Project | What it shows | Tools |
