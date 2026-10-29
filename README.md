@@ -15,4 +15,4 @@ I work on **semiconductor device physics and modelling**: TCAD device and proces
 
 ## Contact
 
-shaunjoseph256@gmail.com · [LinkedIn](https://www.linkedin.com/in/shaunjoseph-ala)
+shaunjoseph256@gmail.com · [LinkedIn](https://www.linkedin.com/in/shaun-joseph-ala)
